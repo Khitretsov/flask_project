@@ -1,0 +1,25 @@
+.error-block {
+    height: 2vh;
+    color: red;
+    margin-bottom: 2vh;
+}
+
+.form {
+    height: 14vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1vh;
+}
+
+.item {
+    width: 32vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.link-block {
+    font-size: small;
+    font-style: italic;
+}

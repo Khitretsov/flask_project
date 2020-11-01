@@ -1,0 +1,25 @@
+.post_header {
+    margin: 8px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttons_block {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.post {
+    width: 524px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.title_area {
+    font-size: small;
+    display: flex;
+    justify-content: space-between;
+    /* height: 22px; */
+}

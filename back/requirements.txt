@@ -1,0 +1,19 @@
+certifi==2020.6.20
+click==7.1.2
+Flask==1.1.2
+Flask-Cors==3.0.9
+Flask-SQLAlchemy==2.4.4
+gunicorn==20.0.4
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+mccabe==0.6.1
+pycodestyle==2.6.0
+pydocstyle==5.1.1
+pyflakes==2.2.0
+pylama==7.7.1
+six==1.15.0
+snowballstemmer==2.0.0
+SQLAlchemy @ file:///C:/ci/sqlalchemy_1598374833867/work
+Werkzeug==1.0.1
+wincertstore==0.2
