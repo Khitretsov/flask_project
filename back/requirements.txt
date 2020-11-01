@@ -14,6 +14,5 @@ pyflakes==2.2.0
 pylama==7.7.1
 six==1.15.0
 snowballstemmer==2.0.0
-SQLAlchemy @ file:///C:/ci/sqlalchemy_1598374833867/work
 Werkzeug==1.0.1
 wincertstore==0.2
