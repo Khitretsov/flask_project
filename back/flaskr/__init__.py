@@ -9,8 +9,10 @@ def create_app(test_config=None):
     app = Flask(
         __name__,
         instance_relative_config=True,
-        static_folder='../../front/build/static',
-        template_folder='../../front/build'
+        # static_folder='../../front/build/static',
+        # template_folder='../../front/build'
+        static_folder='./static',
+        template_folder='./template'
     )
     cors = CORS(app) # Чтобы ходить с 3000 на 5000
     app.config['CORS_HEADERS'] = 'Content-Type'
